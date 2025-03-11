@@ -6,3 +6,6 @@ function add(num1, num2=0){
 }
 
 const sum = add(5,7)
+
+
+
